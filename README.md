@@ -151,7 +151,7 @@ git push origin main
 ```
 
 
-- When prompted:
+- When prompted Give me:
   - **Username**: `data-guru0`
   - **Password**: GitHub token (paste, it's invisible)
 
